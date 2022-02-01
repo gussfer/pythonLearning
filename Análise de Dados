@@ -1,14 +1,17 @@
-Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
-
-O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn de mais de 26% dos clientes.
-
-Isso representa uma perda de milhões para a empresa.
+# Exercicio prático de Análise de dados: Dados de Telecomunicações
+  # Bibliotecas: Pandas (interação com os dados) ; Plotly (visualização dos dados)
+'''
+Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, 
+entre os principais: internet e telefone. O problema é que, analisando o histórico dos 
+clientes dos últimos anos, você percebeu que a empresa está com 'Churn'  
+de mais de 26% dos clientes. Isso representa uma perda de milhões para a empresa.
 
 O que a empresa precisa fazer para resolver isso?
+  - diminuir as taxas de desistência: identificar quem são os envolvidos nos chrun e atuar a partir disso
 
 Base de Dados: https://drive.google.com/drive/folders/1T7D0BlWkNuy_MDpUHuBG44kT80EmRYIs?usp=sharing 
 Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-dataset 
-
+'''
 # BASE DE DADOS: historico dos clientes dos últimos ANOS
 
 # Churn: cancelamento de pacotes 
